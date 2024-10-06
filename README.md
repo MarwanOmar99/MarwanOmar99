@@ -13,7 +13,8 @@
 <p>
 	📄 Know about my experiences :<a href="www.linkedin.com/in/mrwan-essam-6b638a1a9"></a>
 </p>
-## Connect with me:
+<p>
+	## Connect with me:
 <a href="https://github.com/msabdalaal">
   <img src="https://img.icons8.com/color/48/000000/github.png" width="24" alt="GitHub"/>
 </a>
@@ -23,3 +24,4 @@
 <a href="https://www.linkedin.com/in/mohamed-sayed-abdalaal-b84495234/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" alt="LinkedIn"/>
 </a>
+</p>
