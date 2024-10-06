@@ -17,13 +17,10 @@
 	<p>
 	## Connect with me:
 	</p>
-	<a href="https://github.com/msabdalaal">
-  	<img src="https://img.icons8.com/color/48/000000/github.png" width="24" alt="GitHub"/>
+	<a href="https://github.com/MarwanOmar99">
+  	<img src="https://img.icons8.com/color/48/000000/github.png" width="45" alt="GitHub"/>
 	</a>
-	<a href="https://twitter.com/msabdalaal">
-	  <img src="https://img.icons8.com/color/48/000000/twitter.png" width="24" alt="Twitter"/>
-	</a>
-	<a href="https://www.linkedin.com/in/mohamed-sayed-abdalaal-b84495234/">
-	  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" alt="LinkedIn"/>
+	<a href="www.linkedin.com/in/mrwan-essam-6b638a1a9">
+	  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" alt="LinkedIn"/>
 	</a>
 </div>
