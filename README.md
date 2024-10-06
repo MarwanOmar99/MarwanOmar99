@@ -17,16 +17,17 @@
 	<p>
 	## Connect with me:
 	</p>
-	<a href="https://github.com/MarwanOmar99">
-  	<img src="https://img.icons8.com/color/48/000000/github.png" width="45" alt="GitHub"/>
+	<a href="https://github.com/MarwanOmar99" style="text-decoration: none;">
+	  <img src="https://img.icons8.com/color/48/000000/github.png" width="45" alt="GitHub"/>
 	</a>
-	<a href="www.linkedin.com/in/mrwan-essam-6b638a1a9">
+	<a href="https://www.linkedin.com/in/mrwan-essam-6b638a1a9" style="text-decoration: none;">
 	  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" alt="LinkedIn"/>
 	</a>
-	<a href="https://www.facebook.com/profile.php?id=100084535566308&mibextid=ZbWKwL">
-	  <img src="https://img.icons8.com/color/48/000000/facebook.png" width="24" alt="Facebook"/>
+	<a href="https://www.facebook.com/profile.php?id=100084535566308&mibextid=ZbWKwL" style="text-decoration: none;">
+	  <img src="https://img.icons8.com/color/48/000000/facebook.png" width="45" alt="Facebook"/>
 	</a>
-	<a href="https://instagram.com/mrwan_essam99?igshid=ZDdkNTZiNTM">
-	  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="24" alt="Instagram"/>
+	<a href="https://instagram.com/mrwan_essam99?igshid=ZDdkNTZiNTM" style="text-decoration: none;">
+	  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="45" alt="Instagram"/>
 	</a>
+
 </div>
