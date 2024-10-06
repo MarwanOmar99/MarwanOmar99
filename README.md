@@ -1,17 +1,13 @@
+
 <p align="center">
   <h1>👋 Hi, I’m Marwan Mohamed Essam</h1>
 </p>
 <p align="center">
 	<h3>A passionate frontend developer from Egypt</h3>
 </p>
-- 👀 I’m interested in ...
+<p>🌱 I’m currently learning React and Node.js.</p>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-MarwanOmar99/MarwanOmar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
